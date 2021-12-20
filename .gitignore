@@ -1,0 +1,6 @@
+backups/*.sql
+backups/*.bz2
+logs/*.log
+logs/*.0
+logs/*.1
+logs/*.2
