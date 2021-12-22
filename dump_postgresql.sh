@@ -2,7 +2,7 @@
 
 #Variaveis do script
 DATA=$(date +%d-%m-%Y)
-DSTDIR="../dump_postgresql/backups"
+DSTDIR="../dump_postgresql_container/backups"
 PJTDIR="../project"
 DCKR=banco
 DBNAME=dbproject
